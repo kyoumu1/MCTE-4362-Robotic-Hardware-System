@@ -6,6 +6,6 @@
 ## Contents
 | WEEK | TOPICS |
 |-----:|---------------|
-|     1|[Remotely Operated Vehicle (ROV)](week1/ROV.md) |
+|     1|[Remotely Operated Vehicle (ROV)](Week 1/ROV.md) |
 |     2|               |
 |     3|               |
