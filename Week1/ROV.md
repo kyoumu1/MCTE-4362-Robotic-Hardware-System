@@ -95,3 +95,7 @@ The system is divided into three parts: a software for ground control station, W
 The customized business optical transmission terminal uses fiber multiplexing technology to realize 2 way analog video, 2 physical isolation, 100M line speed Ethernet, audio, RS485/RS232 data and switch volume and other signals in the same optical fiber transmission line. The equipment is cylindrical design, wide and wide temperature and pressure can be applied to the sealed bin of a cable underwater robot and so on. It is an important part of the underwater equipment with cable.
 
 ### Power System Management
+#### SeaLift ROV
+<img src="https://www.seascapesubsea.com/wp-content/uploads/2014/07/vlbv-10_front_lrg.jpg" width="50%">
+
+The vLBV requires 350 VDC power. The Surface Power Supply (SPS) converts the shipboard/shore/generator/inverter 100-265 VAC into 350 VDC for the ROV and adjusts the voltage above 350 VDC as needed to compensate for electrical losses, which can occur over the length of the tether. The SPS was designed to be environmentally hardened for operation from small boats and environmental exposure including rain. To accomplish this, the AC to DC converters are encapsulated inside a weather resistant case.
