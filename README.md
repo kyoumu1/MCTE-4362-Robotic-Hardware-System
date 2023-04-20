@@ -8,4 +8,4 @@
 |-----:|---------------|
 |     1|[Remotely Operated Vehicle (ROV)](Week1/ROV.md) |
 |     3|[Unmanned Aerial Vehicle (UAV)](Week3/UAV.md)   |
-|     4|               |
+|     6|[Automated Guided Vehicle (AGV)](Week6/AGV.md)  |
