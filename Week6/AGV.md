@@ -89,3 +89,91 @@ Aerial automated guided vehicles can be categorized into two:
 
 ## Data Collection
 
+| Function | Type of Sensor | Application |
+|---------|-----------------|-------------|
+| Safety Sensors | Safe 2D LiDAR, Bumper, Encoder | Safe personnel detection; Vehicle stoppage if contact; Vehicle speed and steering detection |
+| Environment Perception | 2D & 3D LiDAR, Ultrasonic, Camera, Radar | Avoid impacts with objects |
+| Load Handling | Cameras, 2D & 3D LiDAR, Ultrasonic | Pallet pocket detection |
+|   | Optical distance sensors or Wire draw encoders | Fork Height Sensors |
+|   | Photocells, Ultrasonic, inductive | Ensure the right load positioning |
+| Identification | RFID, Laser or Image based bar code scanners | Transported material identification |
+
+## Data Transmission
+
+- An optical data transmission system consists of an optically aligned pair of devices (transmitter/receiver) that can communicate bidirectionally over various distances. Using infrared light, these optical couplers provide reliable wireless communication between a fixed station and a vehicle. 
+
+- Optical data transmission systems are ideal for replacing complex cabling, slip rings and other transmission methods. These devices offer data transfer options via Ethernet, serially or in 4, 8, and 16-bit parallel modes.
+
+Sources: https://hokuyo-usa.com/resources/blog/how-optical-data-transmission-helping-agvs-become-more-efficient
+
+Hokuyo offers top devices that help AGVs perform efficiently:
+
+1. <b>BWF Series</b>
+
+    This series suits long-distance wireless transmission and uses infrared rays for improved communication speed. As AGVs require non-contact bi-directional communication, these devices can reliably transmit data between the vehicle and the control unit. Since they transfer data using modulated light, these transceivers are immune to physical damage. Unlike radio systems, they also don’t require recalibration.
+
+2. <b>CWF/EWF Series</b>
+
+    This series of devices is pretty compact, lightweight, and economical. They are suitable for data transmission over mid-range distances. They offer full duplex two-way transmission with FSK modulation.
+
+3. <b>DMS Series</b>
+
+    This series of devices offer parallel I/O data transmission within short distances. They use pulse-modulated beams for sending 4 or 8-bit signals wirelessly. They can indicate the destination of AGVs by interlocking with carrier robots. These devices link the AGV with the fixed docking station wirelessly.
+
+4. <b>DMG Series</b>
+
+    This series of devices come with a built-in data-logging feature to capture and record signals between the AMHS (Automated Material Handling Systems) and the semiconductor process equipment. This stored information helps locate and resolve any signal glitches or anomalies. Besides, this data can be accessed using a PC connection; for analysis, exclusive application software exists.
+
+5. <b>DMJ Series</b>
+
+    The DMJ series of optical transceivers offer greater flexibility as they can capture and record signals in expanded non-volatile memory. They help extend parallel I/O communications between the active and passive equipment.
+
+6. <b>Optical Remote Controls</b>
+
+    These devices are the top choice for simple data transmission operations. They can transmit data up to a distance of 10 meters between an operator and a machine. It also offers communication flexibility between a single transmitter and multiple receiver units. The device improves the system's efficiency by reducing the number of spare transmitters required.
+
+## Power System Management
+
+### <u>Wiferion Wireless Charging AGV and Power Supplies</u>
+[![Wiferion Wireless Charging AGV and Power Supplies](https://img.youtube.com/vi/x7Z7VS0IHIk/maxresdefault.jpg)](https://www.youtube.com/watch?v=x7Z7VS0IHIk)
+
+- Batteries for industrial trucks, mobile robots and autonomous vehicles have very special requirements in terms of performance, lifespan and charging cycles, which is why high-quality <b>lithium-ion batteries</b> are important to avoid unnecessary costs.
+
+- Advantages of lithium-ion battery:
+
+    - Higher efficiency, a much higher energy density and a longer life cycle
+    - Less maintenance than lead acid batteries
+
+### <b>etaSTORE LFP (Lithium iron phosphate) - Ideal for continuous use</b>
+
+<img src="https://www.wiferion.com/wp-content/uploads/etastore_lfp_typb_2020_battery_li-ion.png.webp" width="250">
+
+| Capacity (nominal) | 21Ah |
+|---------------|-----------|
+| Voltage nominal | 25,6 V |
+| Charge rate (C-rate) | bis zu 2C |
+| Cycles | <7500 |
+| Charge current | 42A |
+| Number of batteries per system | max. 20 |
+| Communication system | CAN-BUS |
+| IP-Protection | IP54 |
+| Size (W x H x D) | 13,2cm x 18cm x 19,5cm |
+
+- Modular, connectable in series and with an integrated BMS. With a high charging rate of up to 2C, etaSTORE LFP can be charged from 0-100% in the fastest case in around 30 minutes .
+
+### <b>etaSTORE LTO (Lithium Titanate) - Ideal for high charging currents & many charge cycles per day</b>
+
+<img src="https://www.wiferion.com/wp-content/uploads/etastore_lto_web.png.webp" width="250">
+
+| Capacity (nominal) | 22Ah |
+|---------------|-----------|
+| Voltage nominal | 25,3 V |
+| Charge rate (C-rate) | bis zu 5C |
+| Cycles | <17000 |
+| Charge current | 125A |
+| Number of batteries per system | max. 2 |
+| Communication system | CAN-BUS |
+| IP-Protection | IP53 |
+| Size (W x H x D) | 19cm x 16,8cm x 25cm |
+
+- Modular, connectable in series and with an integrated BMS. With a high rate of up to 5C, etaSTORE LTO (Lithium-titanate) can be charged from 0-100% in around 12 minutes with high power and cycle life .
