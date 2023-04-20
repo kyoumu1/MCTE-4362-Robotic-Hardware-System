@@ -177,3 +177,6 @@ Hokuyo offers top devices that help AGVs perform efficiently:
 | Size (W x H x D) | 19cm x 16,8cm x 25cm |
 
 - Modular, connectable in series and with an integrated BMS. With a high rate of up to 5C, etaSTORE LTO (Lithium-titanate) can be charged from 0-100% in around 12 minutes with high power and cycle life .
+
+</body>
+</html>
